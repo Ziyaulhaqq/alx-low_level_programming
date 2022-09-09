@@ -10,5 +10,5 @@ main(void)
 	printf("size of char: %zu bytes\n", sizeof(charType));
 	printf("size of float: %zu bytes\n", sizeof(floatType));
 	printf("size of double: %zu bytes\n", sizeof(doubleType));
-	retturn (0);
+	return (0);
 }
