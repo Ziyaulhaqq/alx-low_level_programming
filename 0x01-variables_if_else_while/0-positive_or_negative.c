@@ -7,7 +7,7 @@
  *
  * print if n is positive, negative, or zero.
  *
- * Return Always 0.
+ * Return: Always 0(Success)
  */
 int main(void)
 {
